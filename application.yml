@@ -1,0 +1,4 @@
+spring:
+  output:
+    ansi:
+      console-available: true
